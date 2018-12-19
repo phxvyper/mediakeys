@@ -10,6 +10,7 @@
 				'-framework', 'CoreData',
 				'-framework', 'Cocoa',
 				'-framework', 'Carbon',
+				'-fno-objc-arc',
 			  ],
 			},
 			"sources": [
